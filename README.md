@@ -22,5 +22,5 @@
 
 ### Результаты:
 1. [ Программа](https://github.com/KislyukAnna/GB_Attestation/blob/main/task/Program.cs)
-2. ![ Блок-схема алгоритма](https://github.com/KislyukAnna/GB_Attestation/blob/main/task/task_alg.jpg)
+2. [ Блок-схема алгоритма](https://github.com/KislyukAnna/GB_Attestation/blob/main/task/task_alg.jpg)
 
